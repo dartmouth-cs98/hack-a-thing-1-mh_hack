@@ -10,4 +10,8 @@ Coding in Python is something I have experience in from CS1, however it has been
 ## What Didn't Work
 I was initially going to use the original cs1lib to incorporate the graphics, however I felt that it was more restrictive. I found that Python's simplicity made it easier to work through this project. There were also some graphical difficulties that I ran into while using the PyGame library.
 
+## Other
+I used this youtube video to get me started initially.
+
+https://www.youtube.com/watch?v=wTDDlvsQQXk
 
