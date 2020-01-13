@@ -13,3 +13,4 @@ class Block:
 
     def move(self, mouseX):
         self.posx = mouseX - self.width / 2
+
